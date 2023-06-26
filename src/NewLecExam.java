@@ -1,5 +1,3 @@
-import part3.ex4.UI코드분리하기.Exam;
-
 public class NewLecExam extends Exam {
 
     private int com;

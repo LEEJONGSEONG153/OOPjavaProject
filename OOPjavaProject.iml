@@ -10,7 +10,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../javaStudy_newLec/out/artifacts/java_ideSetting_01_jar/java_ideSetting_01.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../javaStudy_newLec/out/artifacts/examlibb/examlibb.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
